@@ -1,0 +1,19 @@
+{
+  "name": "MixMaxSlash",
+  "version": "1.0.0",
+  "description": "A simple new slash command for MixMax",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rlarcher/MixMaxSlash.git"
+  },
+  "author": "Ryan Archer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rlarcher/MixMaxSlash/issues"
+  },
+  "homepage": "https://github.com/rlarcher/MixMaxSlash"
+}

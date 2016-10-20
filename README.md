@@ -1,0 +1,1 @@
+This is a simple new slash command for MixMax written in Node.js
