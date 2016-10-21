@@ -2,7 +2,7 @@
   "name": "MixMaxSlash",
   "version": "1.0.0",
   "description": "A simple new slash command for MixMax",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "test"
   },
